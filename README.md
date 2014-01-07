@@ -5,7 +5,7 @@ Simply add the repository to your build.gradle file:
 
     repositories {
         maven {
-            url 'https://github.com/Centril/mvn-repo/raw/master/'
+            url 'https://github.com/Centril/mvn-repo/raw/master/maven-deploy'
         }
         mavenCentral()
     }
@@ -13,7 +13,7 @@ Simply add the repository to your build.gradle file:
 And you can use the artifacts like this:
 
     dependencies {
-        compile 'net.simonvt:android-numberpicker:1.0.0'
+        compile 'net.simonvt.numberpicker:android-numberpicker:1.0.0'
     }
 
 License:
