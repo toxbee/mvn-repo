@@ -14,6 +14,7 @@ And you can use the artifacts like this:
 
     dependencies {
         compile 'net.simonvt.numberpicker:android-numberpicker:1.0.0'
+		compile 'org.osmdroid:bonuspack:4.0.0-SNAPSHOT'
     }
 
 License:

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.osmdroid</groupId>
+  <artifactId>bonuspack</artifactId>
+  <version>4.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140110.194044</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140110194044</lastUpdated>
+  </versioning>
+</metadata>
