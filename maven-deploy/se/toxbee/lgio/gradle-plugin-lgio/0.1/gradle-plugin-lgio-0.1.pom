@@ -9,7 +9,11 @@
     <license>
       <name>The Apache Software License, Version 2.0</name>
       <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-      <distribution>release</distribution>
+      <distribution>repo</distribution>
     </license>
   </licenses>
+  <scm>
+    <connection>https://github.com/toxbee/gradle-plugin-lgio</connection>
+    <url>https://github.com/toxbee/gradle-plugin-lgio</url>
+  </scm>
 </project>
