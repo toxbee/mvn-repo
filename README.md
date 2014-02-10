@@ -22,12 +22,9 @@ dependencies {
 
 	// fimpl: https://github.com/toxbee/fimpl
 	compile 'se.toxbee.fimpl:fimpl-annotate:0.1'
-	compile 'se.toxbee.fimpl:fimpl-annotate-all:0.1'
 	compile 'se.toxbee.fimpl:fimpl-api:0.1'
-	compile 'se.toxbee.fimpl:fimpl-api-all:0.1'
 	compile 'se.toxbee.fimpl:fimpl-common:0.1'
 	compile 'se.toxbee.fimpl:fimpl-metainf:0.1'
-	compile 'se.toxbee.fimpl:fimpl-metainf-all:0.1'
 }
 ```
 
