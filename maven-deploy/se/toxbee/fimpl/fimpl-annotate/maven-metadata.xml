@@ -2,11 +2,11 @@
 <metadata>
   <groupId>se.toxbee.fimpl</groupId>
   <artifactId>fimpl-annotate</artifactId>
-  <version>0.1</version>
+  <version>0.1.1</version>
   <versioning>
     <versions>
-      <version>0.1</version>
+      <version>0.1.1</version>
     </versions>
-    <lastUpdated>20140210014954</lastUpdated>
+    <lastUpdated>20140211054757</lastUpdated>
   </versioning>
 </metadata>
