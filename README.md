@@ -21,10 +21,10 @@ dependencies {
 	compile 'org.osmdroid:bonuspack:4.0.0-SNAPSHOT'
 
 	// fimpl: https://github.com/toxbee/fimpl
-	compile 'se.toxbee.fimpl:fimpl-annotate:0.1.1'
-	compile 'se.toxbee.fimpl:fimpl-api:0.1.1'
-	compile 'se.toxbee.fimpl:fimpl-common:0.1.1'
-	compile 'se.toxbee.fimpl:fimpl-metainf:0.1.1'
+	compile 'se.toxbee.fimpl:fimpl-annotate:0.2.0'
+	compile 'se.toxbee.fimpl:fimpl-api:0.2.0'
+	compile 'se.toxbee.fimpl:fimpl-common:0.2.0'
+	compile 'se.toxbee.fimpl:fimpl-metainf:0.2.0'
 }
 ```
 
